@@ -9,7 +9,7 @@ The platform combines semantic retrieval, vector search, answer verification, an
 ## Key Features
 
 * Multi-document semantic search
-* PDF, DOCX, and TXT support
+* PDF, DOCX, TXT and pasted text support
 * Retrieval-Augmented Generation (RAG)
 * ChromaDB vector storage
 * BGE embedding models
