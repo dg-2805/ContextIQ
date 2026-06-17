@@ -1,6 +1,6 @@
 # ContextIQ
 
-ContextIQ is a Context-Aware Document Intelligence Platform that enables users to upload PDFs, DOCX, and TXT files and receive accurate, source-grounded answers using Retrieval-Augmented Generation (RAG).
+ContextIQ is a Context-Aware Document Intelligence Platform that enables users to upload PDFs, DOCX, TXT files or provide pasted text as a knowledge source and receive accurate, source-grounded answers using Retrieval-Augmented Generation (RAG).
 
 The platform combines semantic retrieval, vector search, answer verification, and citation-based responses to ensure that answers are generated strictly from user-provided documents. When sufficient evidence cannot be found, ContextIQ explicitly responds with:
 
